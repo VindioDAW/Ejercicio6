@@ -1,4 +1,8 @@
 h1{
 	font-family: sans-serif;
 	border-bottom: 3px solid;
+	text-align: center;
+}
+p{
+	background-color: lightgrey;
 }
